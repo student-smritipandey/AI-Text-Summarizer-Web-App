@@ -33,8 +33,8 @@ Regex (re)
 
 Clone this repository
 
-git clone https://github.com/your-username/AI-Text-Summarizer.git
-cd AI-Text-Summarizer
+https://github.com/student-smritipandey/AI-Text-Summarizer-Web-App.git
+cd Text summarizer
 
 
 Create and activate a virtual environment
@@ -67,17 +67,7 @@ Click “Summarize”.
 
 Get your 3-line AI-generated summary instantly!
 
-🧾 Example
 
-Input (News Article):
-
-NASA plans to send astronauts back to the Moon under the Artemis program, aiming to establish a long-term human presence and prepare for future missions to Mars.
-
-Output (3-Line Summary):
-
-NASA’s Artemis program will send astronauts back to the Moon to test sustainable living and technologies for Mars.
-The mission involves global partnerships and new spacecraft development.
-Artemis marks a key milestone in the future of human space exploration.
 
 ⚙️ Project Structure
 AI-Text-Summarizer/
