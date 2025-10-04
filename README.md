@@ -1,6 +1,7 @@
 # AI Text Summarizer Web App
 
 An intelligent text summarization web application built with Hugging Face Transformers and Streamlit.
+
 This app allows users to summarize long articles or news content into concise 3-line summaries — either by pasting text or entering a URL.
 
 🚀 Features
@@ -34,13 +35,16 @@ Regex (re)
 Clone this repository
 
 https://github.com/student-smritipandey/AI-Text-Summarizer-Web-App.git
+
 cd Text summarizer
 
 
 Create and activate a virtual environment
 
 python -m venv venv
+
 venv\Scripts\activate    # For Windows
+
 source venv/bin/activate # For Mac/Linux
 
 
@@ -70,11 +74,16 @@ Get your 3-line AI-generated summary instantly!
 
 
 ⚙️ Project Structure
+
 AI-Text-Summarizer/
+
 │
 ├── app.py                 # Streamlit web application
+
 ├── requirements.txt       # Python dependencies
+
 ├── README.md              # Project documentation
+
 └── assets/                # (Optional) screenshots or logos
 
 📚 Requirements
@@ -82,16 +91,22 @@ AI-Text-Summarizer/
 Create a requirements.txt file with:
 
 streamlit
+
 transformers
+
 torch
+
 requests
+
 beautifulsoup4
+
 lxml_html_clean
 
 🧑‍💻 Author
 
 Smriti Pandey
 🎓 B.Tech CSE (AIML) | Guru Tegh Bahadur Institute of Technology
+
 💼 Passionate about Deep Learning, NLP, and AI-driven Applications
 
 🌟 Contributions
